@@ -4,6 +4,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+        // Ниже представленны массивы строк , которые можно изменить по своему усмотрению
         String[] roles = {
                 "Городничий", "Аммос Федорович",
                 "Артемий Филиппович",
